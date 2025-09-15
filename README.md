@@ -43,11 +43,12 @@ Welcome to my GitHub! I'm a passionate software developer currently diving deep 
   *A fullstack platform to manage farmer deposits, consignment orders, deliveries, and payments.*  
   🔧 *Java + Spring Boot (Backend)* | ⚛️ *ReactJS + Vite (Frontend Web)* | 📱 *React Native + Expo (Mobile)*  
   🔗 *Private Repo – Internal development*
-
+   Link demo [https://farm-app-zeta.vercel.app/] -- Contact to get account
 - 📚 **GrowTalents LMS**  
   *Learning Management System for courses, attendance, grading, and tuition tracking.*  
   🔧 *Java + Spring Boot* | ⚛️ *ReactJS (planned FE dashboard)*  
   🔗 *In Progress*
+   Link demo [https://exe-201-grow-talents-fe-l8cd.vercel.app/home] -- Contact to get account
 
 ---
 
