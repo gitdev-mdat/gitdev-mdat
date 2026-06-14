@@ -38,6 +38,15 @@ Welcome to my GitHub! I'm a passionate software developer currently diving deep 
 ---
 
 ## 🧩 Featured Projects
+- 📝 **TodoNaver (Naver Hackathon 2025 Entry)**  
+  *A client-side task-management web app featuring an AI assistant that converts natural language into structured tasks.*  
+  🔧 *React + TypeScript | Vite | CSS Modules | Gemini API | LocalStorage*  
+  🔗 [Live Demo Link]([https://naver-hackathon-todo-list-web-app.vercel.app/])
+  
+  **Key Highlights:**
+  - **AI-Powered Task Creation:** Integrates Gemini API to parse prompt inputs (e.g., "Create high-priority deadline for slides next Friday 5pm") into validated task data.
+  - **Rich Frontend Dashboard:** Includes a month-grid calendar with task indicators, activity heatmaps, and performance statistics.
+  - **Zero-Backend Architecture:** Implements robust client-side state and data persistence utilizing HTML5 LocalStorage.
 
 - 🌾 **FarmApp**  
   *A fullstack platform to manage farmer deposits, consignment orders, deliveries, and payments.*  
