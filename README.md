@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm a passionate software developer currently diving deep 
 - 📝 **TodoNaver (Naver Hackathon 2025 Entry)**  
   *A client-side task-management web app featuring an AI assistant that converts natural language into structured tasks.*  
   🔧 *React + TypeScript | Vite | CSS Modules | Gemini API | LocalStorage*  
-  🔗 [Live Demo Link]([https://naver-hackathon-todo-list-web-app.vercel.app/])
+  🔗 [Live Demo Link][https://naver-hackathon-todo-list-web-app.vercel.app/]
   
   **Key Highlights:**
   - **AI-Powered Task Creation:** Integrates Gemini API to parse prompt inputs (e.g., "Create high-priority deadline for slides next Friday 5pm") into validated task data.
